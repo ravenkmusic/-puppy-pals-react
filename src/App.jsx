@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import { puppyList } from "./data.js"
 import './App.css'
-import './index.css'
 
 function App(){
 
@@ -35,4 +34,4 @@ function App(){
   );
 }
 
-export default App
+export default App;
